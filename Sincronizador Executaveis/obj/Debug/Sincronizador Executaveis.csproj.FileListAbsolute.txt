@@ -1,0 +1,19 @@
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\bin\Debug\Sincronizador Executaveis.exe.config
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\bin\Debug\Sincronizador Executaveis.exe
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\bin\Debug\Sincronizador Executaveis.pdb
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\MainWindow.g.cs
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\App.g.cs
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador Executaveis_MarkupCompile.cache
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador Executaveis_MarkupCompile.lref
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\MainWindow.baml
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador Executaveis.g.resources
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador_Executaveis.Properties.Resources.resources
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador Executaveis.csproj.GenerateResource.cache
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador Executaveis.csproj.CoreCompileInputs.cache
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador Executaveis.exe
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador Executaveis.pdb
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador Executaveis.csprojAssemblyReference.cache
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\obj\Debug\Sincronizador Executaveis.csproj.CopyComplete
+C:\Users\pio.neto\source\repos\Sincronizador Executaveis\Sincronizador Executaveis\bin\Debug\config.json

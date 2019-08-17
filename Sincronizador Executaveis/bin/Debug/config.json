@@ -1,0 +1,13 @@
+{
+  "EnderecoBase": "\\\\server21\\Interna",
+  "FamiliasSistema": [
+    {
+      "familia": "PG5",
+      "caminho": "\\fPG5"
+    },
+    {
+      "familia": "SG5",
+      "caminho": "\\fSG5"
+    }
+  ]
+}

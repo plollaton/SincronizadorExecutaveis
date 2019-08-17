@@ -1,0 +1,26 @@
+﻿<Window x:Class="Sincronizador_Executaveis.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sincronizador_Executaveis"
+        mc:Ignorable="d"
+        Title="Sincronizador de executáveis" Height="447.284" Width="549.195"
+        >
+    <StackPanel Name="spFundoTela">
+        <TextBlock Name="tbFamilia" Margin="10, 10, 0, 10">Família de sistemas</TextBlock>
+        <ComboBox Name="cbFamilia" 
+                  Margin="10,0,10,0" 
+                  ItemsSource="{Binding cbItens}" 
+                  SelectedItem="{Binding SelectedItem}"
+                  SelectedIndex="0"
+                  SelectionChanged="cbFamilia_SelectionChanged"
+                  DropDownClosed="cbFamilia_DropDownClosed"/>
+        <TabControl Name="tcSistemas" Margin="10" Height="304"/>
+        <StackPanel Orientation="Horizontal" Name="spBotoes" HorizontalAlignment="Right" Margin="10,0,10,10">
+            <Button Width="100" Name="pbCopiar" HorizontalAlignment="Left" Margin="3" Content="Copiar"/>
+            <Button Width="100" Name="pbConfiguracoes" Margin="3" Content="Configurações"/>
+            <Button Width="100" x:Name="pbFechar" HorizontalAlignment="Left" Content="Fechar" Margin="3"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
